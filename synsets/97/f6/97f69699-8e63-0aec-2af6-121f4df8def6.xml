@@ -3,11 +3,11 @@
   xml:lang="pl"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:xlink="http://www.w3.org/1999/xlink"
-  xsi:noNamespaceSchemaLocation="https://unpkg.com/@z-langs/schema@%5E0.0.0/synset.xsd">
-  <meta>
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@z-langs/schema@~0.0.0/xml/synset.xsd">
+  <meta debatable="yes">
     <source xlink:type="simple" xlink:href="x-isv-sources:steenbergen/16465" />
   </meta>
   <options>
-    <lemma value="osiemdziesiąty" debatable="yes" />
+    <lemma value="osiemdziesiąty" />
   </options>
 </synset>

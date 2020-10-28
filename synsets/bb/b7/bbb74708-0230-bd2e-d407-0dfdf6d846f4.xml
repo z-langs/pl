@@ -3,13 +3,13 @@
   xml:lang="pl"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:xlink="http://www.w3.org/1999/xlink"
-  xsi:noNamespaceSchemaLocation="https://unpkg.com/@z-langs/schema@%5E0.0.0/synset.xsd">
-  <meta>
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@z-langs/schema@~0.0.0/xml/synset.xsd">
+  <meta debatable="yes">
     <source xlink:type="simple" xlink:href="x-isv-sources:steenbergen/31274" />
   </meta>
   <options>
-    <lemma value="wododział" debatable="yes" />
-    <lemma value="dział wodny" debatable="yes" />
-    <lemma value="zlewnia" debatable="yes" />
+    <lemma value="wododział" />
+    <lemma value="dział wodny" />
+    <lemma value="zlewnia" />
   </options>
 </synset>
